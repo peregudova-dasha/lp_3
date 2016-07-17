@@ -1,0 +1,491 @@
+body {
+  font: 100%/1em 'Montserrat', sans-serif;
+}
+.box1 {
+  width: 100%;
+  height: 100%;
+  background: url("http://fs204.www.ex.ua/show/666365440151/229441745/229441745.png?800") no-repeat 50% 50%;
+  background-size: cover;
+}
+.box1 .navbar {
+  background: none;
+  margin-top: 60px;
+}
+.box1 .nav .dropdown-menu {
+  background: none;
+  border: none;
+  font-size: 1.2em;
+  text-align: right;
+  box-shadow: none;
+}
+.box1 .nav .dropdown-menu a {
+  padding-bottom: 10px;
+}
+.box1 .nav .dropdown-menu a:hover {
+  background: none;
+  color: #b9babb;
+}
+.box1 .navbar-default {
+  border: none;
+}
+.box1 .nav li a {
+  color: #000;
+  font-size: 1.2em;
+}
+.box1 .nav li a .black-buttom {
+  color: #fff;
+  padding: 10px;
+}
+.box1 .black-buttom {
+  position: relative;
+  top: -10px;
+  height: 40px;
+  background: #000;
+  border-radius: 5%;
+}
+.box1 h1 {
+  margin-top: 200px;
+  font-family: Roboto, sans-serif;
+  font-weight: 300;
+  font-size: 8em;
+}
+.box1 span {
+  font-family: Roboto, sans-serif;
+  font-weight: 300;
+  font-size: 2em;
+  margin-top: 20px;
+}
+.box1 .info {
+  margin-top: 400px;
+}
+.box1 .info img {
+  display: block;
+  margin: 0 auto !important;
+}
+.box1 .info h3 {
+  font-size: 1.5em;
+  text-align: center;
+}
+.box1 .info h3 img {
+  display: inline-block;
+  margin: 0px;
+  padding: 0px;
+}
+.box1 .info p {
+  text-align: center;
+  font-family: Roboto, sans-serif;
+  font-weight: 300;
+  font-size: 1.5em;
+  line-height: 1.5;
+  padding: 10px 20px;
+}
+.box1 .info .link {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  font-size: 1.2em;
+  margin-bottom: 100px;
+}
+.box1 .info a {
+  color: #000 ;
+}
+.box2 {
+  background: #26e6e6;
+  width: 100%;
+  height: 100%;
+  background-image: url("http://fs204.www.ex.ua/show/666365440151/229441986/229441986.png?800");
+  background-repeat: no-repeat;
+  background-position: 10% 60%;
+}
+.box2 .offer {
+  background: #fff;
+  width: 100%;
+  height: 100%;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  padding: 0px;
+}
+.box2 .offer .offer3 {
+  margin-bottom: 35px;
+}
+.box2 .offer .icon {
+  display: inline-block;
+  float: left;
+  width: 30%;
+  height: 115px;
+}
+.box2 .offer .icon img {
+  margin: 60px 25px;
+}
+.box2 .offer .text {
+  width: 70%;
+  display: inline-block;
+  padding-right: 20px;
+  margin-top: 40px;
+}
+.box2 .offer .text h3 {
+  font-size: 1.5em;
+}
+.box2 .offer .text p {
+  font-family: Roboto, sans-serif;
+  font-weight: 300;
+  font-size: 1.5em;
+  line-height: 1.5;
+}
+.box2 .button-2 {
+  width: inherit;
+  height: 55px;
+  background: #000;
+  position: relative;
+  float: bottom;
+  color: #fff;
+  font-size: 1.5em;
+  text-align: center;
+  padding-top: 20px;
+}
+.box2 a:hover {
+  text-decoration: none;
+}
+.box3 {
+  width: 100%;
+  height: 100%;
+  background: #fff;
+}
+.box3 h1 {
+  margin-top: 100px;
+  font-size: 8em;
+  text-align: center;
+  font-family: Roboto, sans-serif;
+  font-weight: 300;
+}
+.box3 p {
+  margin: 60px 0px 100px 0px;
+  font-size: 2em;
+  text-align: center;
+  font-family: Roboto, sans-serif;
+  font-weight: 400;
+  line-height: 1.25;
+}
+.box4 {
+  width: 100%;
+  height: 100%;
+  background: #f5f6f8;
+}
+.box4 h3 {
+  font-size: 1.5em;
+  margin-top: 100px;
+  padding: 0 20px 0 50px;
+}
+.box4 p {
+  margin-top: 20px;
+  font-family: Roboto, sans-serif;
+  font-weight: 400;
+  font-size: 1.5em;
+  line-height: 1.5;
+  color: grey;
+  padding: 0 20px 0 50px;
+}
+.box4 a {
+  color: #000;
+  font-size: 1.2em;
+  display: block;
+  margin: 40px 20px 100px 50px;
+}
+.box5 {
+  width: 100%;
+  height: 100%;
+  background: #000;
+  background-image: url("http://fs204.www.ex.ua/show/666365440151/229441992/229441992.png?1600");
+  background-repeat: no-repeat;
+  background-position: 140% 1250%;
+}
+.box5 h1 {
+  margin: 100px 0 50px 0;
+  font-size: 7.6em;
+  color: #fff;
+  font-family: Roboto, sans-serif;
+  font-weight: 200;
+}
+.box5 p {
+  font-family: Roboto, sans-serif;
+  font-weight: 400;
+  font-size: 1.7em;
+  line-height: 1.5;
+  margin-bottom: 150px;
+  color: #C7C5C5;
+}
+.box5 a {
+  text-decoration: none;
+}
+.box5 a .button-3 {
+  width: 200px;
+  height: 50px;
+  background: #26e6e6;
+  border-radius: 50px 50px;
+  color: #000;
+  font-size: 1.7em;
+  padding: 20px 0;
+  text-align: center;
+  margin-bottom: 100px;
+}
+.box6 {
+  height: 100%;
+  width: 100%;
+  background-color: #f5f6f8;
+}
+.box6 h4 {
+  text-align: center;
+  font-size: 1.2em;
+  margin-top: 200px;
+}
+.box6 p {
+  text-align: center;
+  font-size: 1.5em;
+  margin-top: 50px;
+  padding: 0 120px;
+  line-height: 1.15;
+}
+.box6 .content {
+  width: 100%;
+  height: 100%;
+  margin: 50px 0;
+  display: inline-block;
+}
+.box6 .content .icon {
+  display: inline-block;
+  float: left;
+  width: 30%;
+}
+.box6 .content .text {
+  width: 70%;
+  display: inline-block;
+  float: right;
+}
+.box6 .content .text h3 {
+  font-size: 1.5em;
+  margin: 0 0 15px 0;
+}
+.box6 .content .text span {
+  font-family: Roboto, sans-serif;
+  font-weight: 400;
+  font-size: 1.5em;
+  line-height: 1.5;
+  color: grey;
+}
+.box8 {
+  background-color: #f5f6f8;
+}
+.box8 .img1 {
+  width: 68.8%;
+}
+.box8 .img3 {
+  margin: 50px auto;
+}
+.box8 .img5 {
+  margin-bottom: 100px;
+}
+.box9 h1 {
+  text-align: center;
+  font-size: 6em;
+  font-family: Roboto, sans-serif;
+  font-weight: 100;
+  margin: 75px auto;
+}
+.box10 {
+  background-color: #f5f6f8;
+}
+.box10 .block {
+  margin-top: 50px;
+  padding-bottom: 10px;
+}
+.box10 h4 {
+  padding-top: 50px;
+  font-size: 1.2em;
+  text-align: center;
+}
+.box10 .price {
+  text-align: center;
+  font-size: 5em;
+  margin: 60px auto 45px auto;
+  font-weight: 700;
+}
+.box10 .about {
+  text-align: center;
+  font-weight: 400;
+  font-size: 1.25em;
+  line-height: 1.5;
+  color: grey;
+  padding: 0 45px;
+}
+.box10 a {
+  text-decoration: none;
+}
+.box10 a .button4 {
+  color: #000;
+  margin: 50px auto;
+  font-size: 1.2em;
+  padding: 20px 0;
+  text-align: center;
+}
+.box10 .block:hover {
+  background: #000;
+}
+.box10 .block:hover h4,
+.box10 .block:hover .price {
+  color: #fff;
+}
+.box10 .block:hover .button4 {
+  width: 200px;
+  height: 50px;
+  background: #26e6e6;
+  border-radius: 50px 50px;
+  color: #000;
+}
+footer {
+  background: url("http://fs204.www.ex.ua/show/666365440151/229442013/229442013.png?1600") no-repeat 50% 50%;
+  background-size: cover;
+}
+footer h1 {
+  margin: 200px 0;
+  text-align: right;
+  color: #000;
+  font-size: 8em;
+  font-weight: 700;
+}
+footer .black {
+  margin-top: 300px;
+  background: #000;
+  padding: 50px 20px;
+}
+footer .black .logo2 {
+  float: right;
+}
+footer .black a {
+  display: block;
+  color: #fff;
+  font-size: 1.2em;
+  padding: 10px 0;
+}
+footer .black a:hover {
+  color: grey;
+  text-decoration: none;
+}
+footer .black .made_by {
+  float: right;
+}
+footer .black .made_by p {
+  text-align: right;
+  font-size: 1.2em;
+}
+footer .black .social p {
+  text-align: right;
+  font-size: 1.2em;
+  margin-top: 120px;
+}
+footer .black .social a {
+  display: inline-block;
+  float: right;
+}
+footer .black .social a img {
+  margin: 10px 15px;
+  opacity: 0.5;
+}
+footer .black .social a:hover img {
+  opacity: 1;
+}
+/* Media queries */
+/*PHONE*/
+@media all and (max-width: 767px) {
+  .container {
+    max-width: 730px;
+  }
+  .box1 {
+    width: 100%;
+    height: 100%;
+    background-image: url("http://fs204.www.ex.ua/show/666365440151/229441745/229441745.png?800");
+    background-position-x: 30%;
+    background-position-y: 400px;
+    background-color: #f5f6f8;
+    background-size: auto;
+  }
+  .box1 .nav {
+    margin-top: 0px;
+  }
+  .box1 .navbar {
+    margin-top: 20px;
+  }
+  .box1 .nav .dropdown-menu {
+    background: none;
+    border: none;
+    font-size: 1.2em;
+    text-align: left;
+    box-shadow: none;
+  }
+  .box1 .black-buttom {
+    width: 135px;
+  }
+  .box1 h1 {
+    margin-top: 170px;
+    font-size: 5em;
+  }
+  .box1 span {
+    font-size: 1.7em;
+    line-height: 1.5;
+  }
+  .box1 .info {
+    margin-top: 100px;
+  }
+  .box1 .info .learn-more {
+    margin-top: 30px;
+  }
+  .box1 .info .learn-more p a {
+    margin-top: 10px;
+  }
+}
+.box2 .offer {
+  width: 100%;
+  height: 100%;
+}
+.box3 h1 {
+  font-size: 5em;
+}
+.box5 {
+  background-image: none;
+}
+.box5 h1 {
+  font-size: 5em;
+}
+.box6 p {
+  padding: 0 20px;
+}
+footer h1 {
+  font-size: 5em;
+}
+/*TABLETS*/
+@media all and (min-width: 768px) and (max-width: 991px) {
+  .container {
+    max-width: 970px;
+    min-width: 730px;
+    padding: 0;
+  }
+  .box1 {
+    height: 100%;
+  }
+  .box5 {
+    background-image: none;
+  }
+}
+/*MEDIUM DEVICE*/
+@media all and (min-width: 992px) and (max-width: 1200px) {
+  .container {
+    max-width: 970px;
+  }
+  .box5 {
+    background-image: none;
+  }
+}
+/*LARGE DEVICE*/
+@media all and (min-width: 1201px) {
+  .container {
+    width: 980px;
+  }
+}
